@@ -1,3 +1,4 @@
+this is one of my first learning python project
 # Image Compressor 📁➡️📁
 
 Script Python pour compresser et redimensionner des images en masse, avec contrôle de la qualité et du pourcentage de réduction.
